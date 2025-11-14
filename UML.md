@@ -3,8 +3,7 @@
 ```mermaid
 classDiagram
     direction TB
-    
-    %% Enumeración
+
     class Ambiente {
         <<enumeration>>
         DESIERTO
@@ -12,7 +11,7 @@ classDiagram
         LLANURA
     }
 
-    %% Interfaces
+
     class Volador {
         <<interface>>
         +volar()* void
@@ -27,7 +26,6 @@ classDiagram
 
 
     class Criatura {
-        <<abstract>>
         #string nombre
         #int x
         #int y
