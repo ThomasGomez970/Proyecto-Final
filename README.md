@@ -33,7 +33,7 @@ Cada ciclo de simulación ejecuta:
 
 La simulación dura **14 ciclos** o hasta que no queden criaturas vivas.
 
-### 📋 Ejemplo de Comportamientos
+###  Ejemplo de Comportamientos
 - **RaizLenta** absorbe energía y comparte con otras raíces cercanas.
 - **Centella** roba energía a plantas cercanas.
 - **Albo** puede *volar* y *regenerarse*, además de ayudar a criaturas cercanas.
